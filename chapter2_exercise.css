@@ -1,0 +1,18 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+h1{
+  padding-top:30px;
+  color:orange;
+}
+
+h2{
+  padding-top:10px;
+}
+
+p{
+  padding:10px 0;
+}
