@@ -1,0 +1,33 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  color:gray;
+}
+
+.main-visual{
+  width:100%;
+  height:400px;
+  background-image:url(chapter7/mv.jpg);
+  background-size:cover;
+  background-position:bottom;
+}
+
+h2{
+  padding:10px;
+}
+
+main{
+  width:80%;
+  padding-bottom:40px;
+  margin:0 auto;
+}
+
+.main-content{
+  padding:40px 0;
+  border-bottom:1px solid;
+}
+
+p{
+  padding:10px;
+}
