@@ -225,3 +225,74 @@ footer{
 .footer-text{
   color:#fff;
 }
+
+@media screen and (max-width:425px){
+  header{
+    width:100%;
+  }
+
+  .social{
+    display:none;
+  }
+
+  .nav-list{
+    width:100%;
+  }
+
+  .nav-list-item{
+    width:100%;
+    margin-bottom:10px;
+  }
+
+  .main-visual{
+    width:100%;
+  }
+
+  .main-visual-content{
+    width:100%;
+  }
+
+  .main-visual-text{
+    line-height:30px;
+  }
+
+  main{
+    width:100%;
+    display:block;
+  }
+
+  .blog{
+    width:100%;
+  }
+
+  .blog-item{
+    padding:10px;
+  }
+
+  .blog-image{
+    width:49%;
+  }
+
+  .blog-text{
+    width:49%;
+  }
+
+  .sidebar{
+    width:100%;
+    margin-top:50px;
+  }
+
+  .sidebar-content{
+    padding-right:3%;
+    padding-left:3%;
+  }
+
+  .instagram-box{
+    width:48%;
+    padding-top:48%;
+  }
+
+  .instagram-box:nth-child(odd){
+    margin-right:4%;
+  }
+}
